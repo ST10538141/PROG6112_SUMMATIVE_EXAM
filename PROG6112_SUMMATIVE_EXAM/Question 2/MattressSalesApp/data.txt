@@ -1,0 +1,14 @@
+Customer: fhatuwani
+Product: Cozy Nights Monarch
+Price: R40.00
+VAT: R6.00
+Commission: R2.00
+Total: R48.00
+-------------------------
+Customer: f
+Product: Cozy Nights Monarch
+Price: R5.00
+VAT: R0.75
+Commission: R0.25
+Total: R6.00
+-------------------------
